@@ -1,0 +1,33 @@
+h1 {
+    margin: 50pt 50pt 50pt 75pt;
+color: blue;
+font-style: italic;
+font-family: 'Segoe UI';
+}
+
+ h5 { 
+     padding: 55pt 10px;
+     font-stretch: extra-expanded;
+     font-weight: 500;
+
+}
+body{
+    column-span: initial;
+    background-color: rebeccapurple;
+    font: medium;
+    font-family: Haettenschweiler;;
+}
+button{
+    size: 50px;
+    font-size: 30px;
+    background-color: aquamarine;
+    
+}
+a {
+    font-family: cursive;
+    font-size: large;
+    
+}
+span{
+    font-family: Tahoma;
+}
